@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nathalyafontes14-rgb.github.io/guarda-mirim-ourinhos/sitemap.xml
