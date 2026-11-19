@@ -1,3 +1,4 @@
+<script src="script.js"></script>
 const $ = (s) => document.querySelector(s);
 $("#year").textContent = new Date().getFullYear();
 
